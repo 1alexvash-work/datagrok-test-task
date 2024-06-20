@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "tsup src/main.ts --watch"
+    "dev": "tsup"
   },
   "dependencies": {
     "tsup": "^8.1.0",
